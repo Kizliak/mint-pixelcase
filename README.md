@@ -1,5 +1,5 @@
 # mint-pixelcase
-This script mint pixelcase NFT in Zksync Era network. Needs only ETH for gas, mint = free. Deadline: 24.06.2023
+This script mint pixelcase NFT https://zk-mint.pixelcase.io/ in Zksync Era network. Needs only ETH for gas, mint = free. Deadline: 24.06.2023
 
 ## Prerequisites
 
