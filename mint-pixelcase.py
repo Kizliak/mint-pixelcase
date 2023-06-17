@@ -1,6 +1,5 @@
 from web3 import Web3
-import time, random, requests, json
-from decimal import Decimal
+import time, random
 from loguru import logger
 from tqdm import tqdm
 from sys import stderr
